@@ -1,0 +1,4 @@
+server:
+  origin: https://reactjs-task-management.com
+db:
+  synchronize: false

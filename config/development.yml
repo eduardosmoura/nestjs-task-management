@@ -1,0 +1,7 @@
+db:
+  host: 'localhost'
+  username: 'eduardosmoura'
+  synchronize: true
+
+jwt:
+  secret: '7r@U&v3!E0WBzB^8'
